@@ -6,3 +6,37 @@
 
 }
 
+div#articleSection, div#savedResults {
+	min-height: 100%;
+	margin-bottom: 100px;
+}
+
+.savedDiv, .resultDiv {
+	clear: both;
+}
+
+.resultText {
+	float: left;
+	width: 80%;
+	padding-bottom: 30px;
+}
+
+.saveArticleBtn {
+	float: right;
+	margin-top: 25px;
+}
+
+.savedText {
+	float: left;
+	width: 70%;
+	padding-bottom: 30px;
+}
+
+.notesBtn, .unsaveBtn {
+	float: right;
+	margin-top: 25px;
+	margin-left: 20px;
+}
+
+
+
